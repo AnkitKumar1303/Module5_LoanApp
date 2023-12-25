@@ -1,0 +1,16 @@
+header {
+    width: 100%;
+}
+
+.nav {
+    display: flex;
+    padding: .5rem 2rem;
+    min-height: 40px;
+}
+
+.nav a {
+    text-decoration: none;
+    font-size: 2.15rem;
+    font-weight: 700;
+    color: rgb(49, 49, 49);
+}
